@@ -3,7 +3,7 @@ title: "Fall 2023"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2023-spring-teaching-1
-# venue: "University 1, Department"
+venue: "University 1, Department"
 date: 2023-09-15
 # location: "City, Country"
 ---
