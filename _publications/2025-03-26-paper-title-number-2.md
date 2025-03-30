@@ -1,5 +1,5 @@
 ---
-title: "Liang Li, Haiqin Wu*, Jianchen Shen, Zhenfu Cao, Xiaolei Dong. PGVMatch: Privacy-Preserving and Fine-Grained Crowdsourcing Task Matching with Lightweight On-Chain Public Verifiability. IEEE Transactions on Mobile Computing, 2025 (CCF A, accepted)"
+title: "PGVMatch: Privacy-Preserving and Fine-Grained Crowdsourcing Task Matching with Lightweight On-Chain Public Verifiability (CCF A, accepted)"
 collection: publications
 category: manuscripts
 
