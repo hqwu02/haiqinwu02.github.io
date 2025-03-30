@@ -3,7 +3,7 @@ title: "Spring 2023"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-spring-teaching-1
-# venue: ""
+venue: "Tian Jiabin Building"
 date: 2023-03-01
 # location: "City, Country"
 ---
