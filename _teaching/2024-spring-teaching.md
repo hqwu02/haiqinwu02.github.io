@@ -3,7 +3,7 @@ title: "Spring 2024"
 collection: teaching
 type: "Graduate course"
 # permalink: /teaching/2015-spring-teaching-1
-# venue: "University 1, Department"
+venue: "Tian Jiabin Building"
 date: 2024-03-01
 # location: "City, Country"
 ---
